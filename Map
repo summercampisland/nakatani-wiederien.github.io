@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+</head>
+</body>
+
+Click anywhere to enter my site
+
+<img
+src="map of home-2.jpg"
+usemap="#workmap"
+width="1400"
+height="1400"
+alt="A stylized map of the 
+Greater Seattle Area.">
+
+<map name="workmap">
+  <area shape="rect" coords="600,900,0,600" alt="City" href="poems/An Apartment is not a Cave.html">
+  <area shape="rect" coords="300,600,600,900" alt="My body" href="poems/I thought.html">
+  <area shape="circle" coords="900,975,700,775" alt="Home" href="poems/Suburbs.html">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+  <area shape="rect" coords="900,975,700,775" alt="Land" href="poems/Ocean">
+</map>
